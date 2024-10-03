@@ -81,6 +81,10 @@ a {
   color: #fff;
 }
 
+.items-title-team {
+  background-color: #fff;
+}
+
 .desc-advanteges,
 .desc-team,
 .desc-portfolio {
@@ -103,7 +107,7 @@ a {
   color: #2e2f42;
 }
 
-.text-advaneges,
+.text-advanteges,
 .text-team,
 .text-portfolio {
   font-weight: 400;
